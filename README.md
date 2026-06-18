@@ -12,7 +12,7 @@ A polished animated day/night toggle switch for Flutter. `TwilightSwitch` is bui
 
 ## Package Preview
 <p>
-  <img src="assets/vid.gif" width="250" />
+  <img src="example/assets/video/vid.gif" width="250" />
 </p>
 
 
@@ -22,7 +22,7 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  twilight_switch: ^1.0.0
+  twilight_switch: ^1.0.1
 ```
 
 Then import it:
