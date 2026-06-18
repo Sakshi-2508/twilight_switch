@@ -1,4 +1,4 @@
-## 1.0.0
+## 1.0.1
 
 - Initial release of `TwilightSwitch`.
 - Added animated day, twilight, and night background transitions.
