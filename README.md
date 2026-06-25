@@ -22,7 +22,7 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  twilight_switch: ^1.0.1
+  twilight_switch: ^1.0.2
 ```
 
 Then import it:
